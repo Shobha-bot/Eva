@@ -1,0 +1,21 @@
+.body_backgorund 
+{
+    background-image:url(hOye.gif);
+    background-position:center;
+    background-size:cover;
+}
+img
+{
+    width: 200px;
+}
+
+div{
+    border-width: 10px;
+    border-style: ridge;
+    border-color: royalblue;
+    width: 500px;
+}
+
+#img1{
+    margin-right: 65px;
+}
